@@ -11,7 +11,7 @@
 | № | Папка | Тема | Статус |
 |---|-------|------|--------|
 | 01 | [`01_sockets_basics/`](./01_sockets_basics/) | Основы сокетов | ✅ Готово |
-| 02 | `02_socket_server_client/` | Сервер и клиент | 🔜 Скоро |
+| 02 | [`02_socket_server_client/`](./02_socket_server_client/) | Сервер и клиент | ✅ Готово |
 | 03 | `03_multiple_clients/` | Несколько клиентов | 🔜 Скоро |
 | 04 | `04_asyncio_basics/` | Основы asyncio | 🔜 Скоро |
 | 05 | `05_async_sockets/` | Async сокеты | 🔜 Скоро |
